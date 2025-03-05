@@ -1112,4 +1112,12 @@ it will generate the  .exe files and  .ojava7 files.
 
 Note:
 ====
-ABout  Oakjava7 is  under  construction.
+
+This document is under construction to change all the names due to hackers /other institute / Companies oppose Oakjava7 and to destroy oakjava7 ,so this name is changed. Because they want to implement oakjava7 features in their technology and to gain the profit. THis copying features is violating according to SIT rules. Everything is implemented but document preparation is changed due to hackers.
+
+
+
+
+Note:
+====
+ABout  Oakjava7 is  under  construction  for  document changes due  to hackers.
