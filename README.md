@@ -891,7 +891,7 @@ Methods2();
 
 '
 
-//LOGIC sections represent Business Logic for OakJava7
+//LOGIC sections represent Business Logic for WEB8.0(OJ7)
 
 LOGIC=' 
 
@@ -939,7 +939,7 @@ EXPLANATION
 
 Here when you code the Machine Learning program  using this syntax and compile it using web8c <filename.oj7ua> , 
 
-it will automatically convert to  Oakjava7 program ie(.web) . And you will get a optimized WEB8.0(OJ7) code and .exe   and .ojava7 files.
+it will automatically convert to  WEB8.0(OJ7) program ie(.web) . And you will get a optimized WEB8.0(OJ7) code and .exe   and .ojava7 files.
 
 You can also test the  WEB8.0(OJ7) Machine Learning program using generated (.web) code...So when we notice that here <OJ7ML>  act like a WEB8.0(OJ7) user friendly framework. It act like a XML syntax with data present inside it.
 
