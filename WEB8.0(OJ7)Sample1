@@ -1,6 +1,6 @@
- class Oakjava7Prog
+ class web8Prog
 {
-	public Oakjava7Prog()
+	public web8Prog()
 	{
 		super();
 
@@ -20,7 +20,7 @@ print("\n\n");
 	public void main()
 	{
 
-command("Welcome to OakJava7 Programming Language");
+command("Welcome to  WEB8.0(OJ7) Programming Language");
 
 
 }
@@ -31,6 +31,6 @@ command("Welcome to OakJava7 Programming Language");
 
 Output:
 ======
-Welcome to OakJava7 Programming Language
+Welcome to  WEB8.0(OJ7) Programming Language
 
 
