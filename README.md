@@ -10,7 +10,10 @@
 #  WEB8.0(OJ7)
 ===================
 
- WEB8.0(OJ7) is   invented by  wilmix jemin  j  at  year  2013 in  java  and modified  in  DOTWEB3.0 P.L in year  2016.And now at year 2025, it's Further modified  at  CH$ P.L instead of java. OakJava7 is  renamed as  WEB8.0(OJ7) programming Langauge.
+ WEB8.0(OJ7) is   invented by  wilmix jemin  j  at  year  2013 in  java  and modified  in  DOTWEB3.0 P.L in year  2016.And now at year 2025, it's Further modified  at  CH$ P.L instead of java.
+ But the minicompiler is created in jdk1.6. When you see MVC
+ model. Here in this case ,View(frontend page) is  used by WBE8.0 professionals.
+ So this minicompiler  is  called  as  OJ7 compiler.
 
 
  Note: 
@@ -112,18 +115,25 @@ Other Evidence about  WEB8.0(OJ7)
 
 
  WEB8.0(OJ7)  will work without the installation Java Jdk compiler.
-That we can see the Screen shot. WEB8.0(OJ7)  borrows CJava runtime 
-from Gdollar P.L.I will change it later when i release the 
- WEB8.0(OJ7)  P.L.Also you can see  web8c.exe , and Web8 
-entirely different and run without installation of Java compiler 
-JDK.You can see the ScreenShot for your Reference which given below..
 
+The Java class file is .class  but  Web8.0(OJ7) file
+is  .jclass and .exe and java is  not incuded here.
+This  web8.0(OJ7) P.L is  entirely different from 
+orginal java/j2ee.
+
+
+
+This  is only for  WEB8.0  professionals , Dotnet  professionals, Python professionals,
+and C/C++ professionals
+This  WEB8.0(OJ7) compiler is under construction 80% is over.
+You can see the ScreenShot for your Reference which given below..
+(if it  is  released then it will be published)
 
 ScreenShot about  WEB8.0(OJ7)  Evidence
 -----------------------------------
-This  screen shot will be changed  due to
-OakJava7 is  renamed  to  Web8.0(OJ7)
-
+This  screen shot will be  changed when WEB8.0(OJ7) compiler is
+implemented. This is not for  java/j2ee professionals to
+focus it.
 
 Note:
 ====
@@ -135,7 +145,7 @@ Because if the full implementation of WEB8.0(OJ7) is known to others,so hackers,
 in Dotweb3.0 and they may overtake WEB8.0(OJ7) easily.
 Because using Dotweb3.0 P.L one can create the compiler as fast as could.That's why we don't release  Dotweb3.0
 
-The Major common syntax  for  oakjava7 is given below..
+The Major common syntax  for  WEB8.0(OJ7) is given below..
 
 
 Major Syntax for  WEB8.0(OJ7) program SYNTAX-1:
@@ -213,7 +223,7 @@ public  class web8Prog
 
  
 
- //This  constructor with super method is mandatory,which indicates it is a  oakjava7 program
+ //This  constructor with super method is mandatory,which indicates it is a  Web8.0(OJ7) program
  
 public web8Prog() 
 {
@@ -232,7 +242,7 @@ public void  main()
 
  
 
-<!  OAKJAVA7 Logic  !>
+<!  Web8.0 Logic  !>
 
 }
 
@@ -240,7 +250,11 @@ public void  main()
 
 }
 
- 
+ Note:
+ -----
+ This is  a mini java like compiler 
+ invented  in Jdk1.6 is called  as  OJ7. After the documentation we
+ will publish it.
 
 Major Syntax for WEB8.0(OJ7) program :SYNTAX-3
 
@@ -629,7 +643,7 @@ WEB8.0(OJ7)  loads    .dll in   memory  to create  a  Prototype  software.
 
  
 
-c) web8  <filename.web8> and  => will  also   create  .exe , .ojava7 prototype software
+c) web8  <filename.web8> and  => will  also   create  .exe , .oj7 prototype software
 
 
 which  jdk1.8  or any  java compiler  cannot  do it.
@@ -660,7 +674,7 @@ web8  <filename.web8>
 
  web8c <filname.web8> 
 
- <filename>.web8  is the view part of  OakJava7 mvc program.
+ <filename>.web8  is the view part of  OJ7 mvc program.
 
  
 
@@ -706,7 +720,7 @@ g)  WEB8.0(OJ7)   provides  High  Security when compared to all the  programming
 h) Since it had  100% oops concepts it is ranked as Rank A' Programming language.
 Due to the  reasons  given below...
 
-WEB8.0(OJ7)  is   focused  on   creating  Prototype  software(when we  used  with Jdollar(CSHELL),used  to  create Gaming and utilities,  used  in  web application  with  java frameworks , used  with  Machine Learning, Datascience ,Single Webpage application , Remote X Application, etc  with  WEB8.0(OJ7) frameworks,  and  it  has  Advanced Oops. It  also  supports obfuscation, Code Security, and it  is Learnable . 
+WEB8.0(OJ7)  is   focused  on   creating  Prototype  software(when we  used  with Jdollar(CSHELL),used  to  create Gaming and utilities used  with  Machine Learning, Datascience ,Single Webpage application , Remote X Application, etc  with  WEB8.0(OJ7) frameworks,  and  it  has  Advanced Oops. It  also  supports obfuscation, Code Security, and it  is Learnable . 
 
 Note : [ World Rank A'  means  Advanced  programming language  when  compare  to  all  the  Programming languages  and   10  times  greater  than   Web1.0 programming  language.]
 
@@ -720,15 +734,15 @@ k)  WEB8.0(OJ7)  is  easy   to  learn  and  focus  . ie) it  is  Learnable  Prog
 
 l)  WEB8.0(OJ7)   also  had  his   own  shell  prompt  known  as  Web8Shell...
 
-you  can  execute and  run  Java7.0 Programs...
+you  can  execute and  run  WEB8.0 Programs...
 
 m)  WEB8.0(OJ7)  also   focus  on Code  Security.
 
 n)  Web8  is  an interactive  Programming Language..
 
-ie)  It  is  used   with  Java  ,  C#  And  other  writ  Programming Languages .. 
+ie)  It  is  used   with  Python,c/C++, Dotnet,Web8.0  And  other  writ  Programming Languages .. 
 
-Java  and C#  professionals can  easily  focus. 
+Web8.0(OJ7)  and C#  professionals can  easily  focus. 
 
 o)  WEB8.0(OJ7)  is  focused on MachineLearning,Datascience  ,etc.
 
@@ -740,19 +754,20 @@ typing  html  everytime.
 
 r) WEB8.0(OJ7)  also   supports   100%  OOPS  concept. So  it  is called as  a  Pure OOPS  Programming Language.
 
-s)  We  can   convert   Java program  to  WEB8.0(OJ7)  Program  by   using  command  ConvertToWeb8.
+s) Web8.0(OJ7) is a  high standard  language  greater than Java/j2ee, Python, and all 
+Programming language in this  today computer  world.
 
 t)  WEB8.0(OJ7)   Intermediate Program    is  used   to  test  the  WEB8.0(OJ7)  Program  , when  user
 
 done  mistake  in WEB8.0(OJ7) Programming. 
 
-u) WEB8.0(OJ7)    is  designed   in such  a  way   that  Java  Programmers  can   easily   follow it.
+u) WEB8.0(OJ7)    is  designed   in such  a  way   that  c/c++/pythton,.Net  Programmers  can   easily   follow it.
 
 v)  WEB8.0(OJ7)  is  best  in security  side. eg)   when  we use  Machine learning or web application, it  is best  in security side.
 
 w) WEB8.0(OJ7)   will  work  in  Linux  platform like  ubuntu, etc. So write once  and  run any where.
 
-x)  ScrollServer  can  be used  with  Java Frameworks like  Hibernate,  Mybatics, Java Spring,EJB.
+x)  ScrollServer for  WEB8.0(OJ7) cannot  be used  with  Java Frameworks like  Hibernate,  Mybatics, Java Spring,EJB.
 We can use this for constructing web application. but WEB8.0(OJ7) cannot be used with
 java Frameworks  like  Hibernate,  Mybatics, Java Spring,EJB. Because WEB8.0(OJ7) and java/j2ee
 are invented in different programming Languages.
@@ -796,21 +811,19 @@ b) OAKJAVA8(JAVA8.0) Programming Language
 
  
 
-WEB8.0(OJ7)  Tutorial website  is: For WEB8.0(OJ7),Datascience,Machinelearning,OakJava7 samples see the given below url 
+WEB8.0(OJ7)  Tutorial website  is: For WEB8.0(OJ7),Datascience,Machinelearning,OakJava7 samples see the  url 
 
- https://sites.google.com/site/oakjava7programminglanguage
-
- 
-
-OAKJAVA8(JAVA8.0) Tutorial website is: For Oakjava8 - Mobile type applications see the given below url...
+when i publish it.
 
  
-https://sites.google.com/site/oakjava8programminglanguage
+
+
 
 
  WEB8.0(OJ7) Introduction with machine learning syntax with user friendly
-======================================================================
-framework  OJ7UA (WEB8.0(OJ7) userfriendly Application)
+========================================================================
+framework .This OJ7UA (WEB8.0(OJ7) userfriendly Application is  same for
+Oakjava7 and Web8.0 programming language.
 =====================================================
 Syntax for WEB8.0(OJ7) Machine Learning program
 ============================================
@@ -964,15 +977,6 @@ it will generate the  .exe files and  .ojava7 files.
  Kindly refer  WEB8.0(OJ7)  Google site...
 
 [Project  Period : 2005  to  2016,2013,2021,2022,2023,2024,2025]
-
-
-Note:
-====
-
-This document is under construction to change all the names due to hackers /other institute / Companies oppose Oakjava7 and to destroy oakjava7 ,so this name is changed. Because they want to implement oakjava7 features in their technology and to gain the profit. THis copying features is violating according to SIT rules. Everything is implemented but document preparation is changed due to hackers.
-
-
-
 
 Note:
 ====
