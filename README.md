@@ -12,7 +12,7 @@
 
  WEB8.0(OJ7) is   invented by  wilmix jemin  j  at  year  2013 in  java  and modified  in  DOTWEB3.0 P.L in year  2016.And now at year 2025, it's Further modified  at  CH$ P.L instead of java.
  But the minicompiler is created in jdk1.6. When you see MVC
- model. Here in this case ,View(frontend page) is  used by WBE8.0 professionals.
+ model. Here in this case ,View(frontend page) is  used by WEB8.0 professionals.
  So this minicompiler  is  called  as  OJ7 compiler.
 
 
